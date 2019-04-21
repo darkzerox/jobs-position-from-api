@@ -1,3 +1,6 @@
+# Create .env first
+and create varible  "VUE_APP_URL"
+
 # vue_axios
 
 ## Project setup
